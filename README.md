@@ -113,7 +113,7 @@ python -m streamlit run app.py
 
 ---
 
-## 👩‍💻 Developed By
+## Developed By
 
 **Sameeksha B**
 
@@ -124,7 +124,3 @@ python -m streamlit run app.py
 This project was completed as **Task 2 – AI FAQ Chatbot** for the **CodeAlpha Artificial Intelligence Internship**.
 
 ---
-
-## License
-
-This project is created for educational and internship purposes.
