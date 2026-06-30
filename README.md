@@ -43,9 +43,10 @@ FAQ_Chatbot/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
-    ├── home.png
-    └── chat.png
+└── screenshots1.png
+└── screenshots2.png
+└── screenshots3.png
+└── screenshots4.png
 ```
 
 ---
