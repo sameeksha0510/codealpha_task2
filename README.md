@@ -24,7 +24,7 @@ This project was developed as part of the **CodeAlpha Artificial Intelligence In
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
